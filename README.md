@@ -15,6 +15,5 @@ Después de muchas vueltas, la intención es utilizar
 - Python
 - FreeCad (Diseñar piezas 3D)
 - Arduino
-- Impresora 3D BQ Hephestos
+- Impresora 3D
 - Cura
--
