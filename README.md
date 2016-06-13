@@ -6,7 +6,7 @@ Hace ya mucho tiempo, que ya no recuerdo, en mis hobby construí un brazo robót
 Ahora, retomando el Hobby y como asignatura pendiente he decidido crear otro robot parecido, pero con las tecnologías actuales, todo un nuevo mundo y muchos conocimientos nuevos que adquirir.
 
 
-<IMG  SRC="/prueba/Fotos/RobotMadera1.png" WIDTH=178  HSPACE=100 ALT="Robot Madera 1">
+<IMG  SRC="images/RobotMadera1.png" WIDTH=178  HSPACE=100 ALT="Robot Madera 1">
 
 Después de muchas vueltas, la intención es utilizar
 

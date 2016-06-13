@@ -1,4 +1,4 @@
-Un problema que me he encontrado, es que cuando mandamos la señal de movientos al Arduino, no sabemos si esta bloqueado o ha llegado a su destino
+# Un problema que me he encontrado, es que cuando mandamos la señal de movientos al Arduino, no sabemos si esta bloqueado o ha llegado a su destino
 
 Por lo que vamos a utilizar un **shunt**
 
@@ -8,6 +8,8 @@ vamos conocer el consumo que está teniendo el motor, a continuación leerlo con
 
 <IMG  SRC="/images/Esquemaservobloqueo_esquema_02.jpg" W ALT="Esquema Shunt Arduino">
 
+
+En el directorio **makina1** dejo el sketchbook para Arduino que controla el **shunt**
 
 Fuentes sacadas de:
 - http://proyectosarduinodiy.blogspot.com.es/2015/01/como-saber-si-un-servo-esta-bloqueado.html
