@@ -42,9 +42,9 @@ const int pulsoMax3 = 2500;
 int pinQ = A0;
 int pinW = A1;
 int pinE = A2;
-int pinR = A0;
-int pinT = A1;
-int pinY = A2;
+int pinR = A3;
+int pinT = A4;
+int pinY = A5;
 
 void setup()
 {
@@ -110,11 +110,6 @@ void loop()
          digitalWrite(13, HIGH); //si entra una 'e' encendemos
          myservo3.write(valor_angulo);
          delay(50);
-          // tell servo to go to position in variable 'pos'
-        // delay(2000);
-        // myservo3.write(0);
-        // delay(2000);
-        // myservo3.write(180);
       }
       else if(cadena[0] == 'a')
       {
@@ -159,4 +154,3 @@ void loop()
    Serial.println("\n");
    delay(400);
 }
-
